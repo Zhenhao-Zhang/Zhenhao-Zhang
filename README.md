@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello World :) I'm Zhenhao Zhang (章震豪)
 
-<!--
-**Zhenhao-Zhang/Zhenhao-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+    :wave: Hey! Welcome to my profile!
+    <br>I am a ShanghaiTech Master Student majoring in Machine Learning.
+    <br>This is my blog! -> https://zhenhao-zhang.github.io/
+  </samp>
+<br>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 An undergraduate major in Computer Science and Technology at <a href="https://www.upc.edu.cn/">UPC</a> (2020 - 2024)
+- ✨ A Master student major in Electric Information at <a href="https://vic.shanghaitech.edu.cn/">VDI Center,ShanghaiTech University</a> (2024 - 2027)
+- 🌱 I’m currently learning Reinforcement Learning in Control.
+- 💬 Ask me about anything about Machine Learning and other interesting, and I will try my best to help you :)
+- 📫 How to reach me: 
+  - Email: zhangzhh2002@gmail.com
+  - Blog: <a href="https://zhenhao-zhang.github.io/">My Blog</a>
+  - WeChat: ACHEzzh (indicate the reason)
+- ❤️ Motto: Talk is cheep,show me your code
