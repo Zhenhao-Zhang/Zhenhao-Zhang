@@ -11,7 +11,7 @@
 
 - 🎓 An undergraduate major in Computer Science and Technology at <a href="https://computer.upc.edu.cn/">UPC</a> (2020 - 2024)
 - ✨ A Master student major in Electric Information at <a href="https://vdi.sist.shanghaitech.edu.cn/">VDI Center,ShanghaiTech University</a> (2024 - 2027)
-- 🌱 I’m currently learning 3D Computer Vision in Robotics.
+- 🌱 I’m currently learning Hand-Object Interaction in Robotics.
 - 💬 Ask me about anything about Machine Learning and other interesting, and I will try my best to help you :)
 - 📫 How to reach me: 
   - Email: zhangzhh2002@gmail.com
